@@ -1,4 +1,4 @@
-# Week 3 Assignment: Shopify Stock Analysis
+# Week 3 Activity:  Stock Analysis
 
 ## 1. Dataset Overview
 This report analyzes Shopify's historical daily stock data (`SHOP_2015-05-21_2025-03-16`):
